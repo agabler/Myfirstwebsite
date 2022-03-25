@@ -6,8 +6,6 @@
 body {
     font-family: playfair, serif;
     font-size: 12px;
-    font-weight: lighter;
-    color: #3B2A1D;
     background-color: #FFF1D4;
 }
 
@@ -35,5 +33,10 @@ body {
     text-transform: uppercase;
     font-size: 14px;
     padding: 6px;
+
+}
+
+#banner{
+    width: 100%;
 
 }
