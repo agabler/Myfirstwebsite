@@ -3,8 +3,16 @@
 *Date: 25.03.2022
 *My first website
 ********************************/
+body {
+    font-family: playfair, serif;
+    font-size: 12px;
+    font-weight: lighter;
+    color: #3B2A1D;
+    text-decoration: none;
+    background: url(img/mandala.jpg)
+}
 
-#main-navigation{display:inline-block
+#main-navigation a{display:inline-block
 
 
 
