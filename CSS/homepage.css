@@ -8,13 +8,32 @@ body {
     font-size: 12px;
     font-weight: lighter;
     color: #3B2A1D;
-    text-decoration: none;
     background-color: #FFF1D4;
 }
 
 #main-navigation{
-    display:inline-block;
     padding: 10px;
     background-color: brown;
+}
+
+#main-navigation ul{
+    text-align: right;
+    list-style-type: none;
+    margin: 10px;
+
+    }
+
+#main-navigation li{
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+#main-navigation a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 6px;
 
 }
