@@ -9,11 +9,12 @@ body {
     font-weight: lighter;
     color: #3B2A1D;
     text-decoration: none;
-    background: url(img/mandala.jpg)
+    background-color: #FFF1D4;
 }
 
-#main-navigation a{display:inline-block
-
-
+#main-navigation{
+    display:inline-block;
+    padding: 10px;
+    background-color: brown;
 
 }
